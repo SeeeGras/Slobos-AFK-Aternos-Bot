@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "CraftAttack",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MineAttackBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "mineattack.falix.dev",
     "port": 27586,
-    "version": "",
+    "version": "22796",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
